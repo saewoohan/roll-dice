@@ -12,5 +12,4 @@ IBOutlet과 IBAction의 사용.
 ----
 실행영상
 
-
-https://github.com/saewoohan/roll-dice/issues/1#issue-1604586356
+<img src = "https://user-images.githubusercontent.com/112225610/222104890-f809c69c-4048-4ccd-afed-3e2c9ca5ae03.gif" width = "30%" height = "50%">
