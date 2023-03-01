@@ -1,10 +1,7 @@
-swift 연습 1번째 프로젝트,
+##사용기능
+IBOutlet과 IBAction의 사용.
+추가적으로 Asset에 있는 UIImage를 사용할때는 "#imageLiteral("를 사용할 시 더 직관적으로 가능.
 
-IBAction과 IBOutlet 사용.
-
-#Asset에 있는 UIImage를 사용할때는 "#imageLiteral("를 사용할 시 더 직관적으로 가능.
-
-소요시간 10분.
-
-
+----
+실행영상
 https://github.com/saewoohan/roll-dice/issues/1#issue-1604586356
